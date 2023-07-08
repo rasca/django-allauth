@@ -16,6 +16,8 @@ Note worthy changes
 - It is now possible to manage OpenID Connect providers via the Django
   admin. Simply add a `SocialApp` for each OpenID Connect provider.
 
+- Added support for SAML 2.0.
+
 
 Security notice
 ---------------
